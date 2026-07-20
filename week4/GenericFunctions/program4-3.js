@@ -1,3 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program4-3.js.map
+function printArray(arr) {
+    arr.forEach(item => console.log(item));
+}
+printArray([10, 20, 30]);
+export {};

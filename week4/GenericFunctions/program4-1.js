@@ -1,3 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program4-1.js.map
+function display(value) {
+    console.log(value);
+}
+display("Liya");
+export {};

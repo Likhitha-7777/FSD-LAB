@@ -1,3 +1,13 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program1-3.js.map
+var Employee;
+(function (Employee) {
+    class Details {
+        show(name, id) {
+            console.log("Employee Name:", name);
+            console.log("Employee ID:", id);
+        }
+    }
+    Employee.Details = Details;
+})(Employee || (Employee = {}));
+let emp = new Employee.Details();
+emp.show("liya", 101);
+export {};

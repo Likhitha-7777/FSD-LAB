@@ -1,3 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program5-1.js.map
+function displayLength(value) {
+    console.log("Length:", value.length);
+}
+displayLength("Liya");
+export {};

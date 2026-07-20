@@ -1,3 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program5-2.js.map
+function showItems(items) {
+    console.log(items);
+}
+showItems([10, 20, 30]);
+export {};

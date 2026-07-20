@@ -1,3 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program4-2.js.map
+function square(num) {
+    console.log(num * num);
+}
+square(5);
+export {};

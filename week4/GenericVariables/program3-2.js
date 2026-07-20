@@ -1,3 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program3-2.js.map
+let num = 100;
+console.log(num);
+export {};

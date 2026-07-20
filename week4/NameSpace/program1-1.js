@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var StudentInfo;
 (function (StudentInfo) {
     function display() {
@@ -8,4 +6,4 @@ var StudentInfo;
     StudentInfo.display = display;
 })(StudentInfo || (StudentInfo = {}));
 StudentInfo.display();
-//# sourceMappingURL=program1-1.js.map
+export {};

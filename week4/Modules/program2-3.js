@@ -1,3 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-//# sourceMappingURL=program2-3.js.map
+import { Student } from "./student.js";
+let s = new Student();
+s.display();
